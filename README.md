@@ -1,6 +1,5 @@
-Docker Curriculum
+Tutorial Docker 
 ===
 
-> Learn to build and deploy your distributed applications easily to the cloud with Docker
+Visite la página https://elartedeprogramar.net/guia-tutorial-docker para más información.
 
-Follow the curriculum on [docker-curriculum.com](https://docker-curriculum.com/)
